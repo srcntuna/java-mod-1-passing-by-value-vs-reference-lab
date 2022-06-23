@@ -1,7 +1,3 @@
-package Solution3;
-
-import Containers.StringContainer;
-
 public class Solution3 {
 
   public static void main(String[] args){

@@ -1,8 +1,7 @@
-package Solution2;
 
-import Containers.NumberContainer;
 
-public class Solution2 {
+
+public class Solution1 {
 
   public static void main(String[] args){
     NumberContainer myNumber = new NumberContainer();
@@ -11,7 +10,6 @@ public class Solution2 {
   }
 
  public static void multiplyNumbers(NumberContainer result, int firstNum , int secondNum){
-  result = new NumberContainer();
   result.number = firstNum * secondNum;
  }
 
